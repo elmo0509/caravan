@@ -12,6 +12,10 @@ header {
   margin: 0 auto;
 }
 
+header .heading {
+  font-size: 32px;
+}
+
 /* main-visualの設定 */
 .main-visual {
   width: 100%;
